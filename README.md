@@ -1,7 +1,3 @@
-Here’s a polished, professional README for your GitHub project:
-
----
-
 # Currency Converter – Frontend Capstone Project
 
 A responsive **Currency Converter** web application built with **React**, **JavaScript**, **HTML**, and **CSS** (with optional **Tailwind CSS**). This project demonstrates real-time currency conversion by fetching data from a public API and provides hands-on experience with frontend development, API integration, state management, and responsive design.
